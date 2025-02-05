@@ -6,9 +6,6 @@ import App from './components/App'
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <h1>First Time Finally T-T</h1>
-
-    <h2>Srushti sponsor</h2>
-    <h2>TY AKKA 😘</h2>
     <App />
   </StrictMode>,
 )
